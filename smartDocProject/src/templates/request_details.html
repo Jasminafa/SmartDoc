@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تفاصيل الطلب</title>
+    <link rel="stylesheet" href="/static/absher.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="/">الرئيسية</a></li>
+                <li><a href="#">منصات أخرى</a></li>
+                <li><a href="#">English</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<div class="main-content">
+    <h1>تفاصيل الطلب</h1>
+    <p><strong>الاسم:</strong> {{ request.name }}</p>
+    <p><strong>النوع:</strong> {{ request.type }}</p>
+    <p><strong>التاريخ:</strong> {{ request.date }}</p>
+
+    <!-- Dynamically link to the specific PDF or Image attachment -->
+    <p><strong>المرفقات:</strong> <a href="{{ request.attachment }}" target="_blank">تحميل المرفق</a></p>
+
+    <!-- Button to trigger summarization and classification -->
+    <button class="ab-btn" id="classifyBtn">تصنيف</button>
+
+    <!-- Results Section (Initially Hidden) -->
+    <div id="summaryResult" style="display: none;">
+
+        <!-- Classification Box -->
+        <div id="classificationBox">
+            <h3>التصنيف</h3>
+            <p id="classification"></p>
+        </div>
+
+        <!-- Summary Box -->
+        <div id="summaryBox">
+            <h2>الملخص</h2>
+            <p id="summaryText"></p>
+        </div>
+
+        <!-- Text Length Statistics -->
+        <div id="summaryStats">
+            <p>عدد الكلمات الأصلية: <span id="originalLength"></span></p>
+            <p>عدد الكلمات الملخصة: <span id="summaryLength"></span></p>
+        </div>
+    </div>
+
+    <!-- Loading Icon (Initially Hidden) -->
+    <div id="loadingIcon" style="display: none;">
+        <img src="/static/img/loading.gif" alt="Loading">
+    </div>
+</div>
+
+<footer>
+    <div class="container">
+        <p>© 2025 Absher Government Platform. All rights reserved.</p>
+    </div>
+</footer>
+
+<script>
+    document.getElementById("classifyBtn").addEventListener("click", function() {
+        console.log("Classify button clicked");
+
+        // Display loading icon while processing
+        document.getElementById("loadingIcon").style.display = "block";
+        document.getElementById("summaryResult").style.display = "none";  // Hide results
+
+        // Get the file path from the request
+        const filePath = "{{ request.attachment }}";
+
+        // Send POST request to Flask backend
+        fetch(`/request-details/{{ request.id }}`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                file_path: filePath
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log("Data received:", data);
+            document.getElementById("classification").innerText = data.classification;
+            document.getElementById("summaryText").innerText = data.summary;
+            document.getElementById("originalLength").innerText = data.original_length;
+            document.getElementById("summaryLength").innerText = data.summary_length;
+
+            // Hide loading icon and show results
+            document.getElementById("loadingIcon").style.display = "none";
+            document.getElementById("summaryResult").style.display = "block";
+        })
+        .catch(error => {
+            console.error("Error:", error);
+            document.getElementById("loadingIcon").style.display = "none";
+        });
+    });
+</script>
+</body>
+</html>

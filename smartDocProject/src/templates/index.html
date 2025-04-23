@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>قائمة الطلبات</title>
+    <link rel="stylesheet" href="/static/absher.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="#">الرئيسية</a></li>
+                <li><a href="#">منصات أخرى</a></li>
+                <li><a href="#">English</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<div class="main-content">
+    <h1>قائمة الطلبات</h1>
+
+    <!-- Table displaying the requests -->
+    <table>
+        <thead>
+        <tr>
+            <th>الاسم</th>
+            <th>النوع</th>
+            <th>التاريخ</th>
+            <th>الاجراءات</th>
+        </tr>
+        </thead>
+        <tbody>
+        <!-- Loop through requests and create rows dynamically -->
+        {% for request in requests.values() %}
+        <tr>
+            <td>{{ request.name }}</td>
+            <td>{{ request.type }}</td>
+            <td>{{ request.date }}</td>
+            <td><a href="/request-details/{{ request.id }}" class="btn">عرض التفاصيل</a></td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<footer>
+    <div class="container">
+        <p>© 2025 Absher Government Platform. All rights reserved.</p>
+    </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

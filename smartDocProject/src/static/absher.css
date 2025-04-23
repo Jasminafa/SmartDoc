@@ -1,0 +1,250 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: "DIN", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    background-image: url('/static/img/govbarground.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #f8f4e3;
+    padding-top: 80px;
+}
+
+/* Header */
+header {
+    background-color: #715119;
+    padding: 15px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+header .container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1em;
+    text-transform: uppercase;
+}
+
+/* Main Content */
+.main-content {
+    text-align: center;
+    padding: 30px 20px;
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 8px;
+    margin: 100px auto;
+    max-width: 800px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Page Title */
+h1 {
+    font-size: 2em;
+    color: #715119;
+    margin-bottom: 20px;
+}
+
+/* Request Information */
+p {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* Process Button */
+button {
+    background-color: #715119;
+    color: white;
+    font-size: 1.3em;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #5a3f1c;
+}
+
+/* Layout for Centered Boxes */
+#details-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Fully Centered */
+    width: 100%;
+    margin-top: 30px;
+}
+
+/* Centered Boxes */
+#classificationBox, #summaryBox {
+    width: 90%; /* Wider for better readability */
+    max-width: 600px;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 15px auto; /* Ensures full center alignment */
+}
+
+/* Heading Color */
+#classificationBox h3, #summaryBox h3 {
+    color: #715119;
+    margin-bottom: 10px;
+}
+
+/* Summary Statistics */
+#summaryStats {
+    width: fit-content;
+    font-size: 1em;
+    font-weight: bold;
+    color: #4e3b31;
+    margin: 20px auto;
+    text-align: center;
+    padding-top: 10px;
+    border-top: 2px solid #ddd;
+}
+
+/* Display stats in one line */
+#summaryStats p {
+    display: inline;
+    margin: 0 10px;
+    font-size: 0.9em;
+}
+
+/* Text inside stats */
+#summaryStats span {
+    font-weight: bold;
+    color: #715119;
+}
+
+/* Loading Spinner */
+#loadingIcon {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#loadingIcon img {
+    width: 50px;
+    height: 50px;
+}
+
+/* Footer */
+footer {
+    background-color: #715119;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+
+table th, table td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+table th {
+    background-color: #715119;
+    color: white;
+    font-weight: bold;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table tr:hover {
+    background-color: #ddd;
+    cursor: pointer;
+}
+
+table a {
+    color: #715119;
+    text-decoration: none;
+}
+
+table a:hover {
+    text-decoration: underline;
+}
+
+/* Back Button */
+#backBtn {
+    background-color: #715119;
+    color: white;
+    font-size: 1.2em;
+    padding: 10px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#backBtn:hover {
+    background-color: #5a3f1c;
+}
+
+/* Responsive Design */
+@media all and (max-width: 768px) {
+    .main-content {
+        width: 90%;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+
+    #classificationBox, #summaryBox {
+        width: 90%;
+    }
+
+    #summaryStats p {
+        font-size: 0.8em;
+    }
+}
