@@ -1,0 +1,2501 @@
+Illness Name,Category
+Pneumonia,0
+Rubella,0
+Erotomania,1
+Leg Length Discrepancy,3
+Ataxia,3
+Aplastic Anemia,2
+Kyphosis,3
+Spinal Cord Injury,3
+Depression,1
+Orthopedic Impairment,3
+Malaria,0
+Hemophilia,2
+Neurocognitive Disorder,1
+Cirrhosis,2
+Kleptomania,1
+Graves’ Disease,2
+Balance Disorder,3
+Kleptomania,1
+Social Anxiety Disorder,1
+Autoimmune Hepatitis,2
+Tic Disorders,1
+Panic Disorder,1
+Adjustment Disorder,1
+Hallucination Disorder,1
+Rabies,0
+Neurocognitive Disorder,1
+Kleptomania,1
+Crohn’s Disease,2
+Kyphosis,3
+Parkinson’s Disease,2
+Anthrax,0
+Neurocognitive Disorder,1
+RSV,0
+Bulimia,1
+Chronic Sinusitis,2
+Panic Disorder,1
+Crohn’s Disease,2
+Norovirus,0
+Spina Bifida,3
+Paget's Disease,2
+Barrett’s Esophagus,2
+Heart Disease,2
+Limb Girdle Disorder,3
+Rubella,0
+Dissociative Identity Disorder,1
+Yellow Fever,0
+Sinus Infection,0
+Influenza,0
+Hepatitis A,0
+Sickle Cell Disease,2
+Influenza,0
+Visual Impairment,3
+Hypertension,2
+Neurocognitive Disorder,1
+Endometriosis,2
+Parkinson’s Disease,2
+Parkinson’s Disease,2
+Bacterial Meningitis,0
+Catatonia,1
+Muscular Dystrophy,3
+Leg Length Discrepancy,3
+Dwarfism,3
+Pathological Gambling,1
+Traumatic Brain Injury,3
+Somatic Symptom Disorder,1
+Anorexia,1
+Polycystic Kidney Disease,2
+Spinal Cord Injury,3
+Hip Dysplasia,3
+Campylobacteriosis,0
+Schizophrenia,1
+Selective Mutism,1
+Microcephaly,3
+Erotomania,1
+Cirrhosis,2
+Somatic Symptom Disorder,1
+Psychotic Depression,1
+Giardiasis,0
+Mobility Impairment,3
+Bulimia,1
+Tetanus,0
+Chronic Sinusitis,2
+Leptospirosis,0
+Substance Use Disorder,1
+Mood Disorder,1
+Spastic Diplegia,3
+Amyloidosis,2
+Substance Use Disorder,1
+Hallucination Disorder,1
+Norovirus,0
+Panic Disorder,1
+Giardiasis,0
+Endometriosis,2
+Paratyphoid Fever,0
+Leptospirosis,0
+OCD,1
+Scoliosis,3
+Graves’ Disease,2
+Arthrogryposis,3
+Substance Use Disorder,1
+Hallucination Disorder,1
+Arthritis,2
+Claw Hand,3
+Sleep Disorder,1
+Yellow Fever,0
+Polio,3
+Dissociative Identity Disorder,1
+Hypertension,2
+Measles,0
+Hearing Loss,3
+Aplastic Anemia,2
+Norovirus,0
+Sickle Cell Disease,2
+Schizophrenia,1
+Borderline Personality Disorder,1
+Short Stature,3
+Panic Disorder,1
+Delirium,1
+Chikungunya,0
+Claw Hand,3
+PTSD,1
+Botulism,0
+Pathological Gambling,1
+Chickenpox,0
+Leptospirosis,0
+Blindness,3
+Anxiety,1
+Strep Throat,0
+Tetanus,0
+Endometriosis,2
+Substance Use Disorder,1
+Tetanus,0
+Trichotillomania,1
+Sleep Disorder,1
+Kleptomania,1
+Substance Use Disorder,1
+Measles,0
+Chikungunya,0
+ADHD,1
+Amputation,3
+Gout,2
+Zika Virus,0
+Arthrogryposis,3
+Chronic Kidney Disease,2
+Scoliosis,3
+Paraphilic Disorder,1
+Hearing Loss,3
+Psychotic Depression,1
+Paralysis,3
+Sleep Disorder,1
+Arthrogryposis,3
+Thalassemia,2
+Panic Disorder,1
+Torticollis,3
+Cerebral Palsy,3
+Listeriosis,0
+Chronic Sinusitis,2
+Paranoia,1
+Spinal Cord Injury,3
+Muscular Dystrophy,3
+Chronic Kidney Disease,2
+Limb Girdle Disorder,3
+E. coli Infection,0
+Giardiasis,0
+Hearing Loss,3
+COPD,2
+Hallucination Disorder,1
+E. coli Infection,0
+Lupus,2
+Paget's Disease,2
+Typhoid Fever,0
+Whooping Cough,0
+Arthrogryposis,3
+Hand Deformity,3
+Aplastic Anemia,2
+Chronic Urticaria,2
+Food Poisoning,0
+Chronic Urticaria,2
+Sleep Disorder,1
+Chikungunya,0
+Psychosis,1
+Rabies,0
+Chikungunya,0
+Myasthenia Gravis,2
+Peripheral Artery Disease,2
+Claw Hand,3
+Tic Disorders,1
+Dengue Fever,0
+Campylobacteriosis,0
+Somatic Symptom Disorder,1
+Malaria,0
+Kleptomania,1
+Coxa Vara,3
+Hepatitis C,0
+Asthma,2
+Kyphosis,3
+ADHD,1
+Torticollis,3
+Hallucination Disorder,1
+Giardiasis,0
+Trichotillomania,1
+Measles,0
+Chronic Urticaria,2
+Tetanus,0
+OCD,1
+COVID-19,0
+Parkinson’s Disease,2
+Amputation,3
+Psychosis,1
+Catatonia,1
+Rheumatic Heart Disease,2
+ADHD,1
+Histrionic Personality Disorder,1
+Hepatitis B,0
+Scoliosis,3
+Sinus Infection,0
+Anorexia,1
+Traumatic Brain Injury,3
+Rheumatic Heart Disease,2
+Psychotic Depression,1
+Kleptomania,1
+Kleptomania,1
+Histrionic Personality Disorder,1
+Torticollis,3
+Thyroid Disease,2
+Hemiplegia,3
+Panic Disorder,1
+E. coli Infection,0
+Panic Disorder,1
+Myasthenia Gravis,2
+Anthrax,0
+Chronic Appendicitis,2
+Clubfoot,3
+Speech Impairment,3
+Fibromyalgia,2
+Ulcerative Colitis,2
+Osteogenesis Imperfecta,3
+Histrionic Personality Disorder,1
+Polycystic Kidney Disease,2
+Pneumonia,0
+COPD,2
+Psychotic Depression,1
+Osteogenesis Imperfecta,3
+Social Anxiety Disorder,1
+Hemiplegia,3
+Hepatitis A,0
+Muscle Weakness,3
+Pneumonia,0
+Hypertension,2
+Paranoia,1
+Toxoplasmosis,0
+Chronic Kidney Disease,2
+Anxiety,1
+Psoriasis,2
+Ataxia,3
+Chickenpox,0
+Botulism,0
+Narcissistic Personality Disorder,1
+Paralysis,3
+Phobias,1
+Arthrogryposis,3
+Parkinson’s Disease,2
+Traumatic Brain Injury,3
+Chronic Pancreatitis,2
+Balance Disorder,3
+Typhoid Fever,0
+Rabies,0
+Chronic Urticaria,2
+COVID-19,0
+Botulism,0
+Blindness,3
+Anorexia,1
+Amputation,3
+Lupus,2
+Chronic Migraine,2
+Asthma,2
+Hallucination Disorder,1
+Graves’ Disease,2
+Chronic Migraine,2
+Cystic Fibrosis,2
+Coxa Vara,3
+Toxoplasmosis,0
+Myasthenia Gravis,2
+Botulism,0
+Strep Throat,0
+Rabies,0
+Polio,3
+Muscular Dystrophy,3
+Paranoia,1
+RSV,0
+Scoliosis,3
+Seasonal Affective Disorder,1
+Arthritis,2
+Spastic Diplegia,3
+Frozen Shoulder,3
+Toxoplasmosis,0
+Malaria,0
+Psychotic Depression,1
+Chronic Pancreatitis,2
+Polycystic Kidney Disease,2
+Dengue Fever,0
+Adjustment Disorder,1
+Typhoid Fever,0
+Substance Use Disorder,1
+Food Poisoning,0
+Hip Dysplasia,3
+Bipolar Disorder,1
+Tetanus,0
+Chronic Fatigue Syndrome,2
+Quadriplegia,3
+Mania,1
+Listeriosis,0
+Monoplegia,3
+Mumps,0
+Clubfoot,3
+Amyloidosis,2
+Quadriplegia,3
+Ear Infection,0
+Chikungunya,0
+Endometriosis,2
+Heart Disease,2
+Psychosis,1
+Bipolar Disorder,1
+Coxa Vara,3
+Chikungunya,0
+Thyroid Disease,2
+Diabetes,2
+Seasonal Affective Disorder,1
+Depression,1
+Tetanus,0
+Asthma,2
+Chickenpox,0
+Peripheral Artery Disease,2
+Tetanus,0
+Cirrhosis,2
+Leptospirosis,0
+Bacterial Meningitis,0
+Chronic Appendicitis,2
+Autoimmune Hepatitis,2
+Seasonal Affective Disorder,1
+Claw Hand,3
+Sleep Disorder,1
+Mania,1
+Multiple Sclerosis,3
+Hemophilia,2
+Impulse Control Disorder,1
+Bacterial Meningitis,0
+Arthrogryposis,3
+Psychosis,1
+Autism Spectrum Disorder,1
+Psychosis,1
+Pneumonia,0
+Paralysis,3
+Hyperactivity Disorder,1
+Chronic Appendicitis,2
+PTSD,1
+Giardiasis,0
+Sinus Infection,0
+Rheumatic Heart Disease,2
+Scoliosis,3
+Paraphilic Disorder,1
+Hip Dysplasia,3
+Rubella,0
+Spastic Diplegia,3
+Muscular Dystrophy,3
+Autism Spectrum Disorder,1
+Fibromyalgia,2
+Schizophrenia,1
+Polycystic Kidney Disease,2
+Rabies,0
+Chronic Fatigue Syndrome,2
+Panic Disorder,1
+Frozen Shoulder,3
+Hallucination Disorder,1
+Paget's Disease,2
+Pneumonia,0
+Ear Infection,0
+Thyroid Disease,2
+Food Poisoning,0
+Bipolar Disorder,1
+Schizophrenia,1
+Delirium,1
+Hypertension,2
+Muscular Dystrophy,3
+Anthrax,0
+Arthrogryposis,3
+Neurocognitive Disorder,1
+Short Stature,3
+Autism Spectrum Disorder,1
+Dissociative Identity Disorder,1
+Limb Girdle Disorder,3
+Amputation,3
+Substance Use Disorder,1
+Polio,3
+Delirium,1
+Depression,1
+Mania,1
+Sinus Infection,0
+Impulse Control Disorder,1
+Hemiplegia,3
+Sleep Disorder,1
+Paranoia,1
+Trichotillomania,1
+Sarcoidosis,2
+Pathological Gambling,1
+Kleptomania,1
+Dengue Fever,0
+Bipolar Disorder,1
+Diabetes,2
+Asthma,2
+Spinal Cord Injury,3
+Influenza,0
+Torticollis,3
+Botulism,0
+Peripheral Artery Disease,2
+Sarcoidosis,2
+Sickle Cell Disease,2
+Ataxia,3
+Psychotic Depression,1
+Psychosis,1
+Malaria,0
+Giardiasis,0
+Drop Foot,3
+Panic Disorder,1
+Chronic Kidney Disease,2
+Parkinson’s Disease,2
+Frozen Shoulder,3
+Erotomania,1
+Bipolar Disorder,1
+Microcephaly,3
+Anxiety,1
+Adjustment Disorder,1
+Peripheral Artery Disease,2
+Histrionic Personality Disorder,1
+Drop Foot,3
+Barrett’s Esophagus,2
+Chronic Fatigue Syndrome,2
+Polycystic Kidney Disease,2
+Delirium,1
+Short Stature,3
+Traumatic Brain Injury,3
+Neurocognitive Disorder,1
+COPD,2
+Somatic Symptom Disorder,1
+Toxoplasmosis,0
+RSV,0
+Spinal Cord Injury,3
+Osteogenesis Imperfecta,3
+Hand Deformity,3
+Impulse Control Disorder,1
+Chronic Urticaria,2
+Anorexia,1
+Muscle Weakness,3
+Blindness,3
+Leptospirosis,0
+Leg Length Discrepancy,3
+Scarlet Fever,0
+Panic Disorder,1
+Tic Disorders,1
+Tuberculosis,0
+Toxoplasmosis,0
+Substance Use Disorder,1
+Clubfoot,3
+Lupus,2
+Bipolar Disorder,1
+Tic Disorders,1
+E. coli Infection,0
+Hepatitis B,0
+Ear Infection,0
+Anthrax,0
+Torticollis,3
+Malaria,0
+Dwarfism,3
+Schizoaffective Disorder,1
+Sarcoidosis,2
+Arthritis,2
+Diabetes,2
+Endometriosis,2
+Sickle Cell Disease,2
+Quadriplegia,3
+Bulimia,1
+Phobias,1
+Crohn’s Disease,2
+Erotomania,1
+Quadriplegia,3
+Paraphilic Disorder,1
+Microcephaly,3
+Bipolar Disorder,1
+Hepatitis B,0
+Scarlet Fever,0
+Mobility Impairment,3
+Sleep Disorder,1
+Microcephaly,3
+Anthrax,0
+Spina Bifida,3
+COPD,2
+Polycystic Kidney Disease,2
+Paratyphoid Fever,0
+Mania,1
+Barrett’s Esophagus,2
+Thalassemia,2
+Cirrhosis,2
+Balance Disorder,3
+Bacterial Meningitis,0
+Toxoplasmosis,0
+Osteogenesis Imperfecta,3
+Neurocognitive Disorder,1
+Balance Disorder,3
+Pathological Gambling,1
+Rubella,0
+Bacterial Meningitis,0
+Polio,3
+Spastic Diplegia,3
+E. coli Infection,0
+Chronic Kidney Disease,2
+Monoplegia,3
+Bulimia,1
+Hemophilia,2
+Cerebral Palsy,3
+Psoriasis,2
+Dwarfism,3
+Ulcerative Colitis,2
+Social Anxiety Disorder,1
+Paraphilic Disorder,1
+Peripheral Artery Disease,2
+Chronic Fatigue Syndrome,2
+Campylobacteriosis,0
+Malaria,0
+Ulcerative Colitis,2
+Autoimmune Hepatitis,2
+Influenza,0
+Aplastic Anemia,2
+Frozen Shoulder,3
+Hearing Loss,3
+Bipolar Disorder,1
+Psychotic Depression,1
+Tetanus,0
+Rubella,0
+Depression,1
+Chronic Kidney Disease,2
+Cystic Fibrosis,2
+Autism Spectrum Disorder,1
+Amputation,3
+Frozen Shoulder,3
+Anorexia,1
+Chronic Urticaria,2
+ADHD,1
+Paratyphoid Fever,0
+Chronic Sinusitis,2
+Ear Infection,0
+Spastic Diplegia,3
+Hallucination Disorder,1
+Paralysis,3
+Chronic Fatigue Syndrome,2
+Psychosis,1
+Diabetes,2
+Muscle Weakness,3
+Bulimia,1
+Coxa Vara,3
+Common Cold,0
+Osteogenesis Imperfecta,3
+OCD,1
+Paget's Disease,2
+Muscle Weakness,3
+Traumatic Brain Injury,3
+Mood Disorder,1
+COVID-19,0
+Bulimia,1
+Aplastic Anemia,2
+Visual Impairment,3
+Leg Length Discrepancy,3
+Peripheral Artery Disease,2
+Muscular Dystrophy,3
+Anorexia,1
+Autoimmune Hepatitis,2
+Chikungunya,0
+Hepatitis B,0
+Microcephaly,3
+Rubella,0
+Borderline Personality Disorder,1
+Orthopedic Impairment,3
+Borderline Personality Disorder,1
+Arthritis,2
+Hand Deformity,3
+Chickenpox,0
+Limb Girdle Disorder,3
+Rheumatic Heart Disease,2
+Hemophilia,2
+Adjustment Disorder,1
+Diabetes,2
+Dwarfism,3
+Celiac Disease,2
+Multiple Sclerosis,3
+Anorexia,1
+Tuberculosis,0
+Anthrax,0
+Peripheral Artery Disease,2
+Erotomania,1
+Selective Mutism,1
+Typhoid Fever,0
+COPD,2
+Hepatitis B,0
+Sleep Disorder,1
+Kleptomania,1
+Rabies,0
+Hepatitis A,0
+Visual Impairment,3
+Psychotic Depression,1
+Erotomania,1
+COPD,2
+Whooping Cough,0
+Hip Dysplasia,3
+Monoplegia,3
+Whooping Cough,0
+Rheumatic Heart Disease,2
+ADHD,1
+Ulcerative Colitis,2
+Autoimmune Hepatitis,2
+Adjustment Disorder,1
+Depression,1
+Leg Length Discrepancy,3
+Hearing Loss,3
+Scarlet Fever,0
+Schizoaffective Disorder,1
+Muscle Weakness,3
+Bronchitis,0
+Malaria,0
+Amputation,3
+Cerebral Palsy,3
+Emotional Dysregulation,1
+Social Anxiety Disorder,1
+Short Stature,3
+Strep Throat,0
+Toxoplasmosis,0
+Paranoia,1
+Orthopedic Impairment,3
+Spinal Cord Injury,3
+Strep Throat,0
+Aplastic Anemia,2
+E. coli Infection,0
+Substance Use Disorder,1
+Peripheral Artery Disease,2
+Paralysis,3
+Measles,0
+Microcephaly,3
+Selective Mutism,1
+Gout,2
+Parkinson’s Disease,2
+Chronic Fatigue Syndrome,2
+Cerebral Palsy,3
+Emotional Dysregulation,1
+Aplastic Anemia,2
+Monoplegia,3
+Autoimmune Hepatitis,2
+Malaria,0
+Mumps,0
+Panic Disorder,1
+Borderline Personality Disorder,1
+Hepatitis B,0
+OCD,1
+Anthrax,0
+Traumatic Brain Injury,3
+Malaria,0
+PTSD,1
+Amyloidosis,2
+Hyperactivity Disorder,1
+Paratyphoid Fever,0
+Microcephaly,3
+ADHD,1
+Claw Hand,3
+Amputation,3
+Kleptomania,1
+Torticollis,3
+Bulimia,1
+Hepatitis B,0
+Psoriasis,2
+Gout,2
+Chronic Bronchitis,2
+Rubella,0
+Rheumatic Heart Disease,2
+Orthopedic Impairment,3
+Dwarfism,3
+Influenza,0
+Cerebral Palsy,3
+Monoplegia,3
+Aplastic Anemia,2
+Polycystic Kidney Disease,2
+Osteogenesis Imperfecta,3
+Hallucination Disorder,1
+Selective Mutism,1
+Coxa Vara,3
+Speech Impairment,3
+Influenza,0
+Psoriasis,2
+Toxoplasmosis,0
+Hand Deformity,3
+Borderline Personality Disorder,1
+Norovirus,0
+Speech Impairment,3
+Listeriosis,0
+Arthritis,2
+Ear Infection,0
+Neurocognitive Disorder,1
+Graves’ Disease,2
+Thalassemia,2
+Short Stature,3
+Spastic Diplegia,3
+Limb Girdle Disorder,3
+Hand Deformity,3
+Whooping Cough,0
+Chronic Pancreatitis,2
+Drop Foot,3
+Bipolar Disorder,1
+Common Cold,0
+Mania,1
+Polycystic Kidney Disease,2
+Lupus,2
+Schizophrenia,1
+Food Poisoning,0
+Trichotillomania,1
+Leg Length Discrepancy,3
+Hypertension,2
+Paget's Disease,2
+Arthrogryposis,3
+Tuberculosis,0
+Listeriosis,0
+Malaria,0
+E. coli Infection,0
+Rubella,0
+Delirium,1
+COPD,2
+Endometriosis,2
+Impulse Control Disorder,1
+Cirrhosis,2
+Muscle Weakness,3
+Chronic Fatigue Syndrome,2
+Botulism,0
+Psoriasis,2
+Muscle Weakness,3
+Psychotic Depression,1
+Spina Bifida,3
+Paranoia,1
+Thyroid Disease,2
+Thyroid Disease,2
+Listeriosis,0
+Rubella,0
+Microcephaly,3
+Chikungunya,0
+Tetanus,0
+Social Anxiety Disorder,1
+Thalassemia,2
+Postural Deformity,3
+Sarcoidosis,2
+Diabetes,2
+Substance Use Disorder,1
+Polycystic Kidney Disease,2
+Common Cold,0
+Zika Virus,0
+Hallucination Disorder,1
+Visual Impairment,3
+Arthrogryposis,3
+Hallucination Disorder,1
+Neurocognitive Disorder,1
+Social Anxiety Disorder,1
+Emotional Dysregulation,1
+Gout,2
+Zika Virus,0
+Phobias,1
+Campylobacteriosis,0
+Myasthenia Gravis,2
+Common Cold,0
+Thalassemia,2
+Bulimia,1
+Rabies,0
+Malaria,0
+Emotional Dysregulation,1
+Sleep Disorder,1
+Pneumonia,0
+Measles,0
+Schizoaffective Disorder,1
+Muscle Weakness,3
+Hallucination Disorder,1
+Giardiasis,0
+Hepatitis C,0
+Peripheral Artery Disease,2
+Frozen Shoulder,3
+Leptospirosis,0
+Narcissistic Personality Disorder,1
+Short Stature,3
+Panic Disorder,1
+Typhoid Fever,0
+Dengue Fever,0
+Torticollis,3
+COVID-19,0
+Yellow Fever,0
+Blindness,3
+Polio,3
+Celiac Disease,2
+Hearing Loss,3
+Common Cold,0
+Chronic Kidney Disease,2
+Hepatitis B,0
+Eating Disorder,1
+Spinal Cord Injury,3
+Selective Mutism,1
+Peripheral Artery Disease,2
+Dissociative Identity Disorder,1
+Paralysis,3
+Chronic Fatigue Syndrome,2
+Arthritis,2
+Celiac Disease,2
+Hepatitis A,0
+Muscle Weakness,3
+Social Anxiety Disorder,1
+Erotomania,1
+Polio,3
+Social Anxiety Disorder,1
+Hyperactivity Disorder,1
+Listeriosis,0
+COPD,2
+Emotional Dysregulation,1
+Impulse Control Disorder,1
+Chronic Sinusitis,2
+Malaria,0
+Heart Disease,2
+Rabies,0
+Malaria,0
+Orthopedic Impairment,3
+Dengue Fever,0
+Emotional Dysregulation,1
+Schizoaffective Disorder,1
+Hypertension,2
+Osteogenesis Imperfecta,3
+Paraphilic Disorder,1
+Hepatitis A,0
+Peripheral Artery Disease,2
+Psychotic Depression,1
+Neurocognitive Disorder,1
+Seasonal Affective Disorder,1
+Psychosis,1
+Social Anxiety Disorder,1
+Dengue Fever,0
+Lupus,2
+COPD,2
+Chickenpox,0
+Microcephaly,3
+Botulism,0
+Coxa Vara,3
+Toxoplasmosis,0
+Barrett’s Esophagus,2
+Dwarfism,3
+Bipolar Disorder,1
+Lupus,2
+Psoriasis,2
+Bipolar Disorder,1
+Paranoia,1
+Quadriplegia,3
+Borderline Personality Disorder,1
+Leptospirosis,0
+Arthritis,2
+Ulcerative Colitis,2
+Paranoia,1
+COPD,2
+Hearing Loss,3
+Pneumonia,0
+Anorexia,1
+Hemophilia,2
+Gout,2
+Psychotic Depression,1
+Cirrhosis,2
+ADHD,1
+Tetanus,0
+Kyphosis,3
+Somatic Symptom Disorder,1
+Hepatitis B,0
+Adjustment Disorder,1
+Microcephaly,3
+Claw Hand,3
+Chronic Urticaria,2
+Speech Impairment,3
+Ataxia,3
+Limb Girdle Disorder,3
+Bacterial Meningitis,0
+Dwarfism,3
+Spina Bifida,3
+Kleptomania,1
+Toxoplasmosis,0
+Hallucination Disorder,1
+Social Anxiety Disorder,1
+Listeriosis,0
+PTSD,1
+Traumatic Brain Injury,3
+Zika Virus,0
+Drop Foot,3
+Multiple Sclerosis,3
+Sarcoidosis,2
+Chronic Migraine,2
+PTSD,1
+Chronic Migraine,2
+Toxoplasmosis,0
+Heart Disease,2
+Hypertension,2
+Eating Disorder,1
+Hemophilia,2
+Spastic Diplegia,3
+Rabies,0
+Endometriosis,2
+Trichotillomania,1
+Spinal Cord Injury,3
+Crohn’s Disease,2
+Bacterial Meningitis,0
+Hepatitis C,0
+Monoplegia,3
+Speech Impairment,3
+Chronic Bronchitis,2
+Influenza,0
+Giardiasis,0
+Food Poisoning,0
+Myasthenia Gravis,2
+Sarcoidosis,2
+Tetanus,0
+Short Stature,3
+Chronic Bronchitis,2
+Rubella,0
+E. coli Infection,0
+PTSD,1
+Erotomania,1
+Paranoia,1
+Blindness,3
+Erotomania,1
+Ulcerative Colitis,2
+Seasonal Affective Disorder,1
+Muscle Weakness,3
+Hepatitis A,0
+Postural Deformity,3
+Hand Deformity,3
+Traumatic Brain Injury,3
+Whooping Cough,0
+Common Cold,0
+Hemiplegia,3
+Muscular Dystrophy,3
+Muscular Dystrophy,3
+Erotomania,1
+Zika Virus,0
+Panic Disorder,1
+Spinal Cord Injury,3
+Mobility Impairment,3
+Emotional Dysregulation,1
+Monoplegia,3
+Food Poisoning,0
+Social Anxiety Disorder,1
+Arthritis,2
+Depression,1
+Blindness,3
+Thalassemia,2
+Social Anxiety Disorder,1
+Visual Impairment,3
+Hypertension,2
+Sinus Infection,0
+Amyloidosis,2
+Hip Dysplasia,3
+Barrett’s Esophagus,2
+Erotomania,1
+Depression,1
+Sarcoidosis,2
+Dissociative Identity Disorder,1
+Impulse Control Disorder,1
+Short Stature,3
+Borderline Personality Disorder,1
+Pneumonia,0
+Myasthenia Gravis,2
+Coxa Vara,3
+Yellow Fever,0
+Listeriosis,0
+Yellow Fever,0
+Neurocognitive Disorder,1
+Cystic Fibrosis,2
+Chronic Fatigue Syndrome,2
+Gout,2
+Arthrogryposis,3
+Clubfoot,3
+Hand Deformity,3
+Hypertension,2
+Clubfoot,3
+Arthritis,2
+Paget's Disease,2
+Muscle Weakness,3
+COPD,2
+Phobias,1
+Visual Impairment,3
+Selective Mutism,1
+Thyroid Disease,2
+Leg Length Discrepancy,3
+Multiple Sclerosis,3
+Borderline Personality Disorder,1
+Postural Deformity,3
+Malaria,0
+Pneumonia,0
+Botulism,0
+Schizoaffective Disorder,1
+Orthopedic Impairment,3
+Chickenpox,0
+Eating Disorder,1
+Chickenpox,0
+Adjustment Disorder,1
+Sickle Cell Disease,2
+Leg Length Discrepancy,3
+ADHD,1
+Crohn’s Disease,2
+Scarlet Fever,0
+Measles,0
+Spastic Diplegia,3
+Polio,3
+Trichotillomania,1
+Paralysis,3
+Schizoaffective Disorder,1
+Schizophrenia,1
+Orthopedic Impairment,3
+Tic Disorders,1
+Paraphilic Disorder,1
+Muscle Weakness,3
+Frozen Shoulder,3
+Somatic Symptom Disorder,1
+Thyroid Disease,2
+Chronic Migraine,2
+Norovirus,0
+Muscle Weakness,3
+Hearing Loss,3
+Giardiasis,0
+Bipolar Disorder,1
+Hepatitis B,0
+Leg Length Discrepancy,3
+Chronic Appendicitis,2
+Adjustment Disorder,1
+Speech Impairment,3
+Frozen Shoulder,3
+Graves’ Disease,2
+Short Stature,3
+Seasonal Affective Disorder,1
+Seasonal Affective Disorder,1
+Polio,3
+Barrett’s Esophagus,2
+Cystic Fibrosis,2
+Monoplegia,3
+Hepatitis C,0
+Hepatitis A,0
+Thalassemia,2
+Blindness,3
+Paralysis,3
+Chronic Bronchitis,2
+RSV,0
+Listeriosis,0
+Selective Mutism,1
+Postural Deformity,3
+Mood Disorder,1
+OCD,1
+Hepatitis B,0
+Hepatitis A,0
+Autism Spectrum Disorder,1
+Sinus Infection,0
+Amyloidosis,2
+Polycystic Kidney Disease,2
+Sinus Infection,0
+Torticollis,3
+Leg Length Discrepancy,3
+Listeriosis,0
+Trichotillomania,1
+Cerebral Palsy,3
+Frozen Shoulder,3
+Dissociative Identity Disorder,1
+Psoriasis,2
+Heart Disease,2
+Balance Disorder,3
+Strep Throat,0
+Postural Deformity,3
+Pneumonia,0
+Schizoaffective Disorder,1
+Frozen Shoulder,3
+Tetanus,0
+Muscle Weakness,3
+Arthritis,2
+COPD,2
+Mobility Impairment,3
+Rabies,0
+Hemiplegia,3
+Chronic Kidney Disease,2
+Leg Length Discrepancy,3
+Bronchitis,0
+Muscle Weakness,3
+Psychosis,1
+Monoplegia,3
+Chronic Appendicitis,2
+Norovirus,0
+Mania,1
+Pathological Gambling,1
+Peripheral Artery Disease,2
+Chronic Migraine,2
+Measles,0
+Balance Disorder,3
+Chronic Bronchitis,2
+COPD,2
+Schizoaffective Disorder,1
+Tetanus,0
+Trichotillomania,1
+Polycystic Kidney Disease,2
+Schizoaffective Disorder,1
+Neurocognitive Disorder,1
+Anorexia,1
+COVID-19,0
+Pathological Gambling,1
+Pneumonia,0
+Autism Spectrum Disorder,1
+Anxiety,1
+Dissociative Identity Disorder,1
+Aplastic Anemia,2
+Campylobacteriosis,0
+Limb Girdle Disorder,3
+Social Anxiety Disorder,1
+Frozen Shoulder,3
+Chronic Pancreatitis,2
+Typhoid Fever,0
+Paralysis,3
+Short Stature,3
+Endometriosis,2
+Hemophilia,2
+Sarcoidosis,2
+Amputation,3
+Aplastic Anemia,2
+Malaria,0
+Cystic Fibrosis,2
+Food Poisoning,0
+Tetanus,0
+Paranoia,1
+Psoriasis,2
+Eating Disorder,1
+Erotomania,1
+Ear Infection,0
+Multiple Sclerosis,3
+Rheumatic Heart Disease,2
+Tuberculosis,0
+Sickle Cell Disease,2
+Celiac Disease,2
+Mood Disorder,1
+Ulcerative Colitis,2
+Giardiasis,0
+Psychosis,1
+Chronic Kidney Disease,2
+Chronic Urticaria,2
+Emotional Dysregulation,1
+Chikungunya,0
+Hip Dysplasia,3
+Selective Mutism,1
+Botulism,0
+Polio,3
+Diabetes,2
+Sickle Cell Disease,2
+Paralysis,3
+OCD,1
+Hepatitis C,0
+Psychosis,1
+Drop Foot,3
+Monoplegia,3
+Paget's Disease,2
+Monoplegia,3
+Balance Disorder,3
+Clubfoot,3
+Borderline Personality Disorder,1
+Kyphosis,3
+Kleptomania,1
+Food Poisoning,0
+Claw Hand,3
+Mobility Impairment,3
+Mobility Impairment,3
+Quadriplegia,3
+Sinus Infection,0
+Whooping Cough,0
+Toxoplasmosis,0
+Graves’ Disease,2
+Borderline Personality Disorder,1
+Schizoaffective Disorder,1
+Borderline Personality Disorder,1
+Peripheral Artery Disease,2
+Botulism,0
+Leg Length Discrepancy,3
+Rubella,0
+Drop Foot,3
+Anorexia,1
+Myasthenia Gravis,2
+Toxoplasmosis,0
+Social Anxiety Disorder,1
+Hallucination Disorder,1
+Balance Disorder,3
+Asthma,2
+Asthma,2
+Kyphosis,3
+Phobias,1
+Paraphilic Disorder,1
+Thyroid Disease,2
+Bipolar Disorder,1
+Food Poisoning,0
+Amyloidosis,2
+Chickenpox,0
+Tic Disorders,1
+Myasthenia Gravis,2
+Chronic Pancreatitis,2
+Delirium,1
+Chronic Appendicitis,2
+Trichotillomania,1
+Torticollis,3
+Spina Bifida,3
+Chronic Bronchitis,2
+Depression,1
+Schizophrenia,1
+Mobility Impairment,3
+OCD,1
+Thyroid Disease,2
+Chronic Fatigue Syndrome,2
+Celiac Disease,2
+Ataxia,3
+Chronic Appendicitis,2
+Mumps,0
+Amputation,3
+Yellow Fever,0
+Chronic Urticaria,2
+Thyroid Disease,2
+Diabetes,2
+Lupus,2
+Diabetes,2
+Catatonia,1
+Graves’ Disease,2
+Autoimmune Hepatitis,2
+Chikungunya,0
+Gout,2
+Toxoplasmosis,0
+Mood Disorder,1
+Arthrogryposis,3
+Short Stature,3
+Hepatitis B,0
+Barrett’s Esophagus,2
+Hip Dysplasia,3
+Eating Disorder,1
+Aplastic Anemia,2
+Blindness,3
+Hepatitis C,0
+Polycystic Kidney Disease,2
+Trichotillomania,1
+Hemophilia,2
+Selective Mutism,1
+Panic Disorder,1
+Amputation,3
+Typhoid Fever,0
+Asthma,2
+Balance Disorder,3
+Asthma,2
+Schizophrenia,1
+Giardiasis,0
+Hand Deformity,3
+Toxoplasmosis,0
+Aplastic Anemia,2
+Cirrhosis,2
+Kleptomania,1
+Muscle Weakness,3
+Chikungunya,0
+Food Poisoning,0
+Polycystic Kidney Disease,2
+Rheumatic Heart Disease,2
+Fibromyalgia,2
+Tuberculosis,0
+Hip Dysplasia,3
+Celiac Disease,2
+Kleptomania,1
+Mobility Impairment,3
+Arthritis,2
+Blindness,3
+Rubella,0
+Hip Dysplasia,3
+Chronic Bronchitis,2
+Anorexia,1
+Sickle Cell Disease,2
+Bulimia,1
+Quadriplegia,3
+Erotomania,1
+Paget's Disease,2
+Emotional Dysregulation,1
+E. coli Infection,0
+Multiple Sclerosis,3
+Cirrhosis,2
+Anorexia,1
+Histrionic Personality Disorder,1
+Campylobacteriosis,0
+Catatonia,1
+Substance Use Disorder,1
+Depression,1
+Frozen Shoulder,3
+Monoplegia,3
+Erotomania,1
+Torticollis,3
+Phobias,1
+Botulism,0
+Chickenpox,0
+Sarcoidosis,2
+Blindness,3
+Spastic Diplegia,3
+Ataxia,3
+Bipolar Disorder,1
+Short Stature,3
+Short Stature,3
+Food Poisoning,0
+Chickenpox,0
+COVID-19,0
+Panic Disorder,1
+Scoliosis,3
+Leg Length Discrepancy,3
+COPD,2
+Traumatic Brain Injury,3
+Bronchitis,0
+Autism Spectrum Disorder,1
+Peripheral Artery Disease,2
+Hepatitis A,0
+Ear Infection,0
+Chronic Migraine,2
+Thyroid Disease,2
+Campylobacteriosis,0
+Asthma,2
+Clubfoot,3
+Hemophilia,2
+Panic Disorder,1
+Thalassemia,2
+Celiac Disease,2
+Ataxia,3
+Chronic Appendicitis,2
+Food Poisoning,0
+Tuberculosis,0
+Spastic Diplegia,3
+Ataxia,3
+Mood Disorder,1
+Bronchitis,0
+Diabetes,2
+COPD,2
+Autoimmune Hepatitis,2
+Mood Disorder,1
+Spina Bifida,3
+Diabetes,2
+Claw Hand,3
+Spina Bifida,3
+Paranoia,1
+Chronic Kidney Disease,2
+Kleptomania,1
+Lupus,2
+Spina Bifida,3
+Giardiasis,0
+Bulimia,1
+Leg Length Discrepancy,3
+Tuberculosis,0
+Hyperactivity Disorder,1
+Paralysis,3
+Paratyphoid Fever,0
+Bipolar Disorder,1
+Chronic Fatigue Syndrome,2
+Rubella,0
+Graves’ Disease,2
+Dwarfism,3
+Polio,3
+COPD,2
+Diabetes,2
+Traumatic Brain Injury,3
+Whooping Cough,0
+Chronic Migraine,2
+Neurocognitive Disorder,1
+Dengue Fever,0
+Claw Hand,3
+Chronic Urticaria,2
+Leg Length Discrepancy,3
+Anorexia,1
+Microcephaly,3
+Chronic Pancreatitis,2
+Psoriasis,2
+Chronic Pancreatitis,2
+Amyloidosis,2
+Autism Spectrum Disorder,1
+Hearing Loss,3
+Postural Deformity,3
+Pneumonia,0
+Orthopedic Impairment,3
+Selective Mutism,1
+Chronic Pancreatitis,2
+Gout,2
+Mobility Impairment,3
+Pathological Gambling,1
+Gout,2
+Rabies,0
+Dissociative Identity Disorder,1
+PTSD,1
+Aplastic Anemia,2
+Leptospirosis,0
+Neurocognitive Disorder,1
+Hypertension,2
+Kleptomania,1
+Paralysis,3
+Pneumonia,0
+Pathological Gambling,1
+Spina Bifida,3
+Limb Girdle Disorder,3
+Lupus,2
+Paralysis,3
+Ataxia,3
+Bulimia,1
+Hemiplegia,3
+Yellow Fever,0
+Substance Use Disorder,1
+Bulimia,1
+Measles,0
+Lupus,2
+Schizoaffective Disorder,1
+Psychotic Depression,1
+Mobility Impairment,3
+PTSD,1
+Sickle Cell Disease,2
+Eating Disorder,1
+Psoriasis,2
+Narcissistic Personality Disorder,1
+Barrett’s Esophagus,2
+Measles,0
+Paratyphoid Fever,0
+Hearing Loss,3
+Paget's Disease,2
+Rabies,0
+Chronic Urticaria,2
+Giardiasis,0
+Asthma,2
+Toxoplasmosis,0
+Ataxia,3
+Anorexia,1
+Food Poisoning,0
+Selective Mutism,1
+Chronic Sinusitis,2
+Typhoid Fever,0
+Trichotillomania,1
+Substance Use Disorder,1
+Aplastic Anemia,2
+Pathological Gambling,1
+Measles,0
+Polycystic Kidney Disease,2
+Sinus Infection,0
+Food Poisoning,0
+Bacterial Meningitis,0
+Erotomania,1
+Strep Throat,0
+Paraphilic Disorder,1
+Aplastic Anemia,2
+Rheumatic Heart Disease,2
+Hemiplegia,3
+Paratyphoid Fever,0
+Bulimia,1
+RSV,0
+Parkinson’s Disease,2
+Hemiplegia,3
+Thyroid Disease,2
+Fibromyalgia,2
+Mania,1
+Sarcoidosis,2
+Gout,2
+Bacterial Meningitis,0
+Osteogenesis Imperfecta,3
+Anthrax,0
+Asthma,2
+Tic Disorders,1
+Anthrax,0
+Thalassemia,2
+Hand Deformity,3
+Hemiplegia,3
+Gout,2
+Hypertension,2
+RSV,0
+Yellow Fever,0
+Orthopedic Impairment,3
+Psoriasis,2
+Schizoaffective Disorder,1
+Whooping Cough,0
+Chronic Fatigue Syndrome,2
+Neurocognitive Disorder,1
+Dwarfism,3
+Ulcerative Colitis,2
+Typhoid Fever,0
+Sickle Cell Disease,2
+RSV,0
+Cirrhosis,2
+Asthma,2
+Giardiasis,0
+Torticollis,3
+Endometriosis,2
+Chronic Pancreatitis,2
+Crohn’s Disease,2
+Measles,0
+Sleep Disorder,1
+Heart Disease,2
+Chronic Bronchitis,2
+PTSD,1
+Tic Disorders,1
+Asthma,2
+Anorexia,1
+Polycystic Kidney Disease,2
+Parkinson’s Disease,2
+Seasonal Affective Disorder,1
+Trichotillomania,1
+Clubfoot,3
+Frozen Shoulder,3
+Speech Impairment,3
+Dwarfism,3
+Peripheral Artery Disease,2
+Orthopedic Impairment,3
+Sickle Cell Disease,2
+Chronic Pancreatitis,2
+Chronic Urticaria,2
+Scarlet Fever,0
+Dwarfism,3
+Graves’ Disease,2
+Aplastic Anemia,2
+Short Stature,3
+Zika Virus,0
+Panic Disorder,1
+Hand Deformity,3
+Lupus,2
+Toxoplasmosis,0
+Hemiplegia,3
+Sarcoidosis,2
+Paranoia,1
+Chickenpox,0
+Hyperactivity Disorder,1
+Balance Disorder,3
+Bronchitis,0
+Blindness,3
+Blindness,3
+Chikungunya,0
+Graves’ Disease,2
+Pneumonia,0
+Histrionic Personality Disorder,1
+Paratyphoid Fever,0
+Muscle Weakness,3
+Dengue Fever,0
+Leptospirosis,0
+Sinus Infection,0
+Chronic Bronchitis,2
+Erotomania,1
+Food Poisoning,0
+Amyloidosis,2
+COVID-19,0
+Amputation,3
+Claw Hand,3
+Arthritis,2
+ADHD,1
+Campylobacteriosis,0
+Hepatitis C,0
+Amyloidosis,2
+Paratyphoid Fever,0
+Typhoid Fever,0
+Narcissistic Personality Disorder,1
+Adjustment Disorder,1
+Chronic Appendicitis,2
+Hepatitis C,0
+Speech Impairment,3
+Gout,2
+Somatic Symptom Disorder,1
+Osteogenesis Imperfecta,3
+Parkinson’s Disease,2
+Panic Disorder,1
+Graves’ Disease,2
+Scoliosis,3
+Schizoaffective Disorder,1
+Psychotic Depression,1
+Balance Disorder,3
+Arthrogryposis,3
+Autism Spectrum Disorder,1
+Microcephaly,3
+Orthopedic Impairment,3
+Hepatitis B,0
+Depression,1
+Autism Spectrum Disorder,1
+Postural Deformity,3
+Social Anxiety Disorder,1
+Hypertension,2
+Hand Deformity,3
+Myasthenia Gravis,2
+Quadriplegia,3
+Sleep Disorder,1
+Microcephaly,3
+Hemiplegia,3
+Sleep Disorder,1
+Spinal Cord Injury,3
+PTSD,1
+Hemophilia,2
+Blindness,3
+Tuberculosis,0
+Bronchitis,0
+Leptospirosis,0
+OCD,1
+Speech Impairment,3
+Mumps,0
+Spina Bifida,3
+Bacterial Meningitis,0
+Neurocognitive Disorder,1
+Schizophrenia,1
+Kyphosis,3
+Mood Disorder,1
+Chickenpox,0
+Chronic Kidney Disease,2
+Fibromyalgia,2
+Phobias,1
+Mumps,0
+Fibromyalgia,2
+Rubella,0
+Emotional Dysregulation,1
+Hemophilia,2
+Sarcoidosis,2
+Amyloidosis,2
+Psoriasis,2
+Polycystic Kidney Disease,2
+Hepatitis B,0
+Chronic Sinusitis,2
+Visual Impairment,3
+Sinus Infection,0
+Sickle Cell Disease,2
+Paget's Disease,2
+Sickle Cell Disease,2
+Polycystic Kidney Disease,2
+COPD,2
+Hearing Loss,3
+Toxoplasmosis,0
+Sickle Cell Disease,2
+Spina Bifida,3
+Impulse Control Disorder,1
+Parkinson’s Disease,2
+Lupus,2
+Tetanus,0
+Monoplegia,3
+Panic Disorder,1
+Balance Disorder,3
+Hepatitis B,0
+Campylobacteriosis,0
+Chronic Migraine,2
+Amyloidosis,2
+Hemiplegia,3
+Visual Impairment,3
+Asthma,2
+Toxoplasmosis,0
+Celiac Disease,2
+Microcephaly,3
+Orthopedic Impairment,3
+Arthrogryposis,3
+Whooping Cough,0
+Parkinson’s Disease,2
+Emotional Dysregulation,1
+Anxiety,1
+Emotional Dysregulation,1
+Phobias,1
+Ulcerative Colitis,2
+Pathological Gambling,1
+Amputation,3
+Frozen Shoulder,3
+Scarlet Fever,0
+Speech Impairment,3
+Drop Foot,3
+Chikungunya,0
+Delirium,1
+Muscle Weakness,3
+Phobias,1
+Coxa Vara,3
+Chronic Fatigue Syndrome,2
+Traumatic Brain Injury,3
+Impulse Control Disorder,1
+Mumps,0
+Sarcoidosis,2
+Sickle Cell Disease,2
+Orthopedic Impairment,3
+ADHD,1
+Frozen Shoulder,3
+Cystic Fibrosis,2
+PTSD,1
+Diabetes,2
+Campylobacteriosis,0
+Chronic Urticaria,2
+Graves’ Disease,2
+Scarlet Fever,0
+Thyroid Disease,2
+Somatic Symptom Disorder,1
+Malaria,0
+Psychosis,1
+Parkinson’s Disease,2
+Trichotillomania,1
+Norovirus,0
+ADHD,1
+Tic Disorders,1
+Polio,3
+Hemiplegia,3
+Thalassemia,2
+Psychotic Depression,1
+Anorexia,1
+Gout,2
+Yellow Fever,0
+Tic Disorders,1
+RSV,0
+Catatonia,1
+Ulcerative Colitis,2
+Schizoaffective Disorder,1
+Panic Disorder,1
+Panic Disorder,1
+PTSD,1
+Arthritis,2
+Rubella,0
+Multiple Sclerosis,3
+Listeriosis,0
+Tic Disorders,1
+Hemiplegia,3
+Botulism,0
+Hypertension,2
+Dengue Fever,0
+Leptospirosis,0
+Osteogenesis Imperfecta,3
+Celiac Disease,2
+Mood Disorder,1
+Lupus,2
+Borderline Personality Disorder,1
+Mobility Impairment,3
+Sleep Disorder,1
+Chronic Sinusitis,2
+Chickenpox,0
+Bronchitis,0
+Rabies,0
+Gout,2
+Chickenpox,0
+Dwarfism,3
+Campylobacteriosis,0
+Rheumatic Heart Disease,2
+Blindness,3
+Asthma,2
+Torticollis,3
+Mumps,0
+Whooping Cough,0
+Impulse Control Disorder,1
+ADHD,1
+Multiple Sclerosis,3
+Hearing Loss,3
+Anthrax,0
+Dissociative Identity Disorder,1
+Psychosis,1
+Traumatic Brain Injury,3
+Panic Disorder,1
+Hyperactivity Disorder,1
+Hyperactivity Disorder,1
+Psoriasis,2
+PTSD,1
+Drop Foot,3
+PTSD,1
+Schizoaffective Disorder,1
+Thyroid Disease,2
+Diabetes,2
+Microcephaly,3
+Balance Disorder,3
+Thalassemia,2
+Spina Bifida,3
+Schizoaffective Disorder,1
+Hepatitis C,0
+Fibromyalgia,2
+Paratyphoid Fever,0
+Drop Foot,3
+Hemophilia,2
+Ear Infection,0
+Impulse Control Disorder,1
+Barrett’s Esophagus,2
+Zika Virus,0
+Diabetes,2
+Strep Throat,0
+Endometriosis,2
+Autism Spectrum Disorder,1
+Frozen Shoulder,3
+Yellow Fever,0
+Botulism,0
+Somatic Symptom Disorder,1
+Claw Hand,3
+Bronchitis,0
+ADHD,1
+Impulse Control Disorder,1
+Hypertension,2
+Hemophilia,2
+Malaria,0
+Paralysis,3
+Cirrhosis,2
+Seasonal Affective Disorder,1
+Hand Deformity,3
+COPD,2
+OCD,1
+Muscular Dystrophy,3
+Hepatitis C,0
+Sarcoidosis,2
+Traumatic Brain Injury,3
+Hemiplegia,3
+Tetanus,0
+Monoplegia,3
+Drop Foot,3
+Paget's Disease,2
+Influenza,0
+Coxa Vara,3
+Kleptomania,1
+Bacterial Meningitis,0
+Ulcerative Colitis,2
+Visual Impairment,3
+Malaria,0
+ADHD,1
+Multiple Sclerosis,3
+Hepatitis A,0
+Visual Impairment,3
+Social Anxiety Disorder,1
+Paget's Disease,2
+Rabies,0
+Emotional Dysregulation,1
+Rheumatic Heart Disease,2
+Chronic Kidney Disease,2
+Social Anxiety Disorder,1
+Impulse Control Disorder,1
+Monoplegia,3
+Panic Disorder,1
+Sinus Infection,0
+Lupus,2
+Hearing Loss,3
+Scoliosis,3
+Listeriosis,0
+Spinal Cord Injury,3
+Hepatitis C,0
+Paratyphoid Fever,0
+Myasthenia Gravis,2
+Hepatitis B,0
+Sinus Infection,0
+Chronic Kidney Disease,2
+Psoriasis,2
+Mobility Impairment,3
+Bulimia,1
+Chronic Migraine,2
+Common Cold,0
+Peripheral Artery Disease,2
+Diabetes,2
+Blindness,3
+Orthopedic Impairment,3
+Emotional Dysregulation,1
+Mania,1
+Toxoplasmosis,0
+Ataxia,3
+Ulcerative Colitis,2
+Crohn’s Disease,2
+Schizophrenia,1
+Pathological Gambling,1
+Quadriplegia,3
+Listeriosis,0
+Psychosis,1
+PTSD,1
+Polio,3
+Amputation,3
+Hemiplegia,3
+Clubfoot,3
+Amyloidosis,2
+Coxa Vara,3
+Hemophilia,2
+Trichotillomania,1
+Balance Disorder,3
+Crohn’s Disease,2
+Limb Girdle Disorder,3
+Norovirus,0
+Borderline Personality Disorder,1
+Yellow Fever,0
+Chronic Sinusitis,2
+Psychosis,1
+Blindness,3
+Dwarfism,3
+Pathological Gambling,1
+Tuberculosis,0
+Spinal Cord Injury,3
+Torticollis,3
+Scoliosis,3
+Emotional Dysregulation,1
+Crohn’s Disease,2
+E. coli Infection,0
+Bulimia,1
+Emotional Dysregulation,1
+Hip Dysplasia,3
+Diabetes,2
+Selective Mutism,1
+OCD,1
+Frozen Shoulder,3
+Spina Bifida,3
+Lupus,2
+Mania,1
+Traumatic Brain Injury,3
+Claw Hand,3
+Cystic Fibrosis,2
+Trichotillomania,1
+Heart Disease,2
+Drop Foot,3
+Rubella,0
+Multiple Sclerosis,3
+Adjustment Disorder,1
+Listeriosis,0
+Limb Girdle Disorder,3
+Blindness,3
+Chronic Kidney Disease,2
+Paratyphoid Fever,0
+Typhoid Fever,0
+Paralysis,3
+Paratyphoid Fever,0
+Speech Impairment,3
+Bulimia,1
+Autoimmune Hepatitis,2
+Visual Impairment,3
+Spinal Cord Injury,3
+Clubfoot,3
+Listeriosis,0
+Scarlet Fever,0
+Strep Throat,0
+Tuberculosis,0
+Scarlet Fever,0
+Frozen Shoulder,3
+Mobility Impairment,3
+Mood Disorder,1
+Orthopedic Impairment,3
+Anthrax,0
+Cirrhosis,2
+Chronic Urticaria,2
+Hypertension,2
+Coxa Vara,3
+Hip Dysplasia,3
+COVID-19,0
+Hepatitis C,0
+Paralysis,3
+Chikungunya,0
+Common Cold,0
+Bacterial Meningitis,0
+Erotomania,1
+Hypertension,2
+Multiple Sclerosis,3
+Schizoaffective Disorder,1
+Hallucination Disorder,1
+Bronchitis,0
+Pneumonia,0
+Polycystic Kidney Disease,2
+Hepatitis A,0
+RSV,0
+Erotomania,1
+Botulism,0
+Dissociative Identity Disorder,1
+Chikungunya,0
+Whooping Cough,0
+Celiac Disease,2
+Polio,3
+Leptospirosis,0
+Graves’ Disease,2
+Campylobacteriosis,0
+Hyperactivity Disorder,1
+Amputation,3
+Torticollis,3
+Trichotillomania,1
+Chronic Migraine,2
+Chronic Kidney Disease,2
+Drop Foot,3
+Orthopedic Impairment,3
+Muscle Weakness,3
+Substance Use Disorder,1
+Somatic Symptom Disorder,1
+Ulcerative Colitis,2
+Impulse Control Disorder,1
+Bulimia,1
+Tic Disorders,1
+Scoliosis,3
+Erotomania,1
+Blindness,3
+Giardiasis,0
+Sleep Disorder,1
+Seasonal Affective Disorder,1
+Spinal Cord Injury,3
+Chronic Kidney Disease,2
+Borderline Personality Disorder,1
+Malaria,0
+Bacterial Meningitis,0
+Multiple Sclerosis,3
+Thalassemia,2
+Botulism,0
+Microcephaly,3
+OCD,1
+Somatic Symptom Disorder,1
+Kyphosis,3
+Leg Length Discrepancy,3
+Common Cold,0
+Monoplegia,3
+Hepatitis C,0
+Torticollis,3
+Ear Infection,0
+Hallucination Disorder,1
+Somatic Symptom Disorder,1
+Cirrhosis,2
+Common Cold,0
+Pathological Gambling,1
+Scoliosis,3
+Scoliosis,3
+Arthrogryposis,3
+Mood Disorder,1
+Mobility Impairment,3
+Bacterial Meningitis,0
+Panic Disorder,1
+Dengue Fever,0
+Celiac Disease,2
+Chickenpox,0
+Torticollis,3
+Selective Mutism,1
+Spinal Cord Injury,3
+Sarcoidosis,2
+Cerebral Palsy,3
+Giardiasis,0
+Whooping Cough,0
+Schizoaffective Disorder,1
+Paralysis,3
+Substance Use Disorder,1
+Kyphosis,3
+Polycystic Kidney Disease,2
+Arthrogryposis,3
+Dengue Fever,0
+Pathological Gambling,1
+Autoimmune Hepatitis,2
+Hip Dysplasia,3
+Campylobacteriosis,0
+Drop Foot,3
+COVID-19,0
+Bipolar Disorder,1
+Muscle Weakness,3
+Depression,1
+Norovirus,0
+Chickenpox,0
+Psychosis,1
+Mobility Impairment,3
+Chronic Sinusitis,2
+Trichotillomania,1
+Bacterial Meningitis,0
+Campylobacteriosis,0
+Gout,2
+Anorexia,1
+Crohn’s Disease,2
+Rabies,0
+Paralysis,3
+Giardiasis,0
+PTSD,1
+Phobias,1
+Chronic Pancreatitis,2
+Sinus Infection,0
+Arthrogryposis,3
+Dissociative Identity Disorder,1
+Leg Length Discrepancy,3
+Amputation,3
+Influenza,0
+Celiac Disease,2
+Hemiplegia,3
+Amyloidosis,2
+Crohn’s Disease,2
+Schizoaffective Disorder,1
+Blindness,3
+Autism Spectrum Disorder,1
+Campylobacteriosis,0
+Sarcoidosis,2
+ADHD,1
+Sarcoidosis,2
+Spinal Cord Injury,3
+Mood Disorder,1
+Hemophilia,2
+Mania,1
+Diabetes,2
+Listeriosis,0
+Ataxia,3
+Paralysis,3
+Muscle Weakness,3
+Hand Deformity,3
+Myasthenia Gravis,2
+Chikungunya,0
+Rheumatic Heart Disease,2
+Giardiasis,0
+Diabetes,2
+Paranoia,1
+Panic Disorder,1
+Chronic Pancreatitis,2
+Chronic Migraine,2
+Strep Throat,0
+Toxoplasmosis,0
+Sinus Infection,0
+Peripheral Artery Disease,2
+COVID-19,0
+Monoplegia,3
+Thyroid Disease,2
+Erotomania,1
+Selective Mutism,1
+Catatonia,1
+Sleep Disorder,1
+Mania,1
+Eating Disorder,1
+Spastic Diplegia,3
+Spinal Cord Injury,3
+Amyloidosis,2
+Tic Disorders,1
+Whooping Cough,0
+Typhoid Fever,0
+Hepatitis C,0
+Typhoid Fever,0
+Psychotic Depression,1
+Polycystic Kidney Disease,2
+Blindness,3
+Psychotic Depression,1
+Selective Mutism,1
+Norovirus,0
+Strep Throat,0
+Ataxia,3
+Schizophrenia,1
+Limb Girdle Disorder,3
+Whooping Cough,0
+Autoimmune Hepatitis,2
+Cerebral Palsy,3
+Phobias,1
+Seasonal Affective Disorder,1
+Measles,0
+Panic Disorder,1
+Hypertension,2
+Food Poisoning,0
+Sarcoidosis,2
+Short Stature,3
+Chickenpox,0
+Endometriosis,2
+Visual Impairment,3
+Delirium,1
+Anorexia,1
+Hemiplegia,3
+Chikungunya,0
+Graves’ Disease,2
+Arthrogryposis,3
+Anthrax,0
+Schizophrenia,1
+Substance Use Disorder,1
+Balance Disorder,3
+RSV,0
+Bipolar Disorder,1
+Coxa Vara,3
+Spinal Cord Injury,3
+Mobility Impairment,3
+Bulimia,1
+Narcissistic Personality Disorder,1
+Catatonia,1
+Botulism,0
+Thyroid Disease,2
+Chronic Appendicitis,2
+Giardiasis,0
+Short Stature,3
+Parkinson’s Disease,2
+Paraphilic Disorder,1
+Parkinson’s Disease,2
+Amyloidosis,2
+Rabies,0
+Kyphosis,3
+Spastic Diplegia,3
+Paget's Disease,2
+Panic Disorder,1
+Social Anxiety Disorder,1
+Ulcerative Colitis,2
+Hearing Loss,3
+Leg Length Discrepancy,3
+Substance Use Disorder,1
+Influenza,0
+Amyloidosis,2
+E. coli Infection,0
+Eating Disorder,1
+Emotional Dysregulation,1
+Chikungunya,0
+Substance Use Disorder,1
+Toxoplasmosis,0
+Postural Deformity,3
+Social Anxiety Disorder,1
+Chronic Kidney Disease,2
+Chronic Urticaria,2
+Chronic Kidney Disease,2
+Paranoia,1
+Blindness,3
+Hyperactivity Disorder,1
+Tetanus,0
+Kleptomania,1
+Hypertension,2
+Somatic Symptom Disorder,1
+Rheumatic Heart Disease,2
+Microcephaly,3
+Whooping Cough,0
+Anthrax,0
+Selective Mutism,1
+Speech Impairment,3
+Hyperactivity Disorder,1
+Barrett’s Esophagus,2
+Short Stature,3
+Hepatitis C,0
+Sarcoidosis,2
+Parkinson’s Disease,2
+Sinus Infection,0
+Leg Length Discrepancy,3
+Mumps,0
+Bulimia,1
+Myasthenia Gravis,2
+Autoimmune Hepatitis,2
+Neurocognitive Disorder,1
+Rheumatic Heart Disease,2
+Schizoaffective Disorder,1
+Cerebral Palsy,3
+Narcissistic Personality Disorder,1
+Ulcerative Colitis,2
+Selective Mutism,1
+Eating Disorder,1
+Postural Deformity,3
+RSV,0
+Chronic Kidney Disease,2
+Seasonal Affective Disorder,1
+PTSD,1
+Histrionic Personality Disorder,1
+Heart Disease,2
+Drop Foot,3
+Schizoaffective Disorder,1
+Thyroid Disease,2
+Erotomania,1
+Selective Mutism,1
+Paranoia,1
+Mobility Impairment,3
+Short Stature,3
+Psychosis,1
+Speech Impairment,3
+Speech Impairment,3
+Measles,0
+Hepatitis B,0
+Paranoia,1
+Chronic Pancreatitis,2
+Anthrax,0
+Hemiplegia,3
+Asthma,2
+Hip Dysplasia,3
+Sarcoidosis,2
+Campylobacteriosis,0
+Campylobacteriosis,0
+Trichotillomania,1
+Gout,2
+Parkinson’s Disease,2
+Hepatitis B,0
+Psoriasis,2
+Hemiplegia,3
+Rabies,0
+Amyloidosis,2
+Visual Impairment,3
+Cerebral Palsy,3
+Cystic Fibrosis,2
+Giardiasis,0
+Listeriosis,0
+Hepatitis A,0
+Mobility Impairment,3
+Chronic Pancreatitis,2
+Drop Foot,3
+Kyphosis,3
+Fibromyalgia,2
+Limb Girdle Disorder,3
+Gout,2
+Chronic Sinusitis,2
+Amputation,3
+Sarcoidosis,2
+Graves’ Disease,2
+Aplastic Anemia,2
+Hemophilia,2
+Visual Impairment,3
+Campylobacteriosis,0
+Postural Deformity,3
+Sickle Cell Disease,2
+Monoplegia,3
+Chronic Bronchitis,2
+Yellow Fever,0
+Ear Infection,0
+Adjustment Disorder,1
+Cerebral Palsy,3
+Paralysis,3
+Clubfoot,3
+Eating Disorder,1
+Ulcerative Colitis,2
+Hemiplegia,3
+Paraphilic Disorder,1
+Phobias,1
+Psoriasis,2
+Orthopedic Impairment,3
+ADHD,1
+Autoimmune Hepatitis,2
+Psychosis,1
+Depression,1
+Tic Disorders,1
+Botulism,0
+Leptospirosis,0
+Hemiplegia,3
+Social Anxiety Disorder,1
+Psychotic Depression,1
+Ulcerative Colitis,2
+Eating Disorder,1
+Sinus Infection,0
+Leptospirosis,0
+Trichotillomania,1
+Hypertension,2
+Chronic Sinusitis,2
+Chronic Kidney Disease,2
+Hearing Loss,3
+Measles,0
+Hearing Loss,3
+Erotomania,1
+Toxoplasmosis,0
+PTSD,1
+Polycystic Kidney Disease,2
+Asthma,2
+Coxa Vara,3
+Yellow Fever,0
+Asthma,2
+Bacterial Meningitis,0
+Hand Deformity,3
+Influenza,0
+Social Anxiety Disorder,1
+Campylobacteriosis,0
+OCD,1
+Chikungunya,0
+Thalassemia,2
+Spinal Cord Injury,3
+Tic Disorders,1
+Selective Mutism,1
+Parkinson’s Disease,2
+Toxoplasmosis,0
+Amyloidosis,2
+Crohn’s Disease,2
+Hearing Loss,3
+Chronic Pancreatitis,2
+Erotomania,1
+Hepatitis C,0
+Leptospirosis,0
+Aplastic Anemia,2
+Bulimia,1
+Social Anxiety Disorder,1
+Amputation,3
+Tuberculosis,0
+Scarlet Fever,0
+Hand Deformity,3
+Yellow Fever,0
+Measles,0
+Muscular Dystrophy,3
+Spina Bifida,3
+Paralysis,3
+Hand Deformity,3
+Typhoid Fever,0
+Emotional Dysregulation,1
+Paranoia,1
+Hearing Loss,3
+Psychosis,1
+Limb Girdle Disorder,3
+Erotomania,1
+Phobias,1
+Somatic Symptom Disorder,1
+Spastic Diplegia,3
+Yellow Fever,0
+Dwarfism,3
+Microcephaly,3
+Frozen Shoulder,3
+Influenza,0
+Autism Spectrum Disorder,1
+Hyperactivity Disorder,1
+Hepatitis B,0
+Dengue Fever,0
+Kyphosis,3
+Chronic Bronchitis,2
+Hemophilia,2
+Visual Impairment,3
+Sarcoidosis,2
+Paget's Disease,2
+Paranoia,1
+Barrett’s Esophagus,2
+Peripheral Artery Disease,2
+Anxiety,1
+Hypertension,2
+Phobias,1
+Common Cold,0
+Catatonia,1
+OCD,1
+Schizophrenia,1
+Gout,2
+Hyperactivity Disorder,1
+Pneumonia,0
+Claw Hand,3
+Measles,0
+Autoimmune Hepatitis,2
+Hepatitis C,0
+Hallucination Disorder,1
+Dengue Fever,0
+Dwarfism,3
+COPD,2
+Celiac Disease,2
+Postural Deformity,3
+Polycystic Kidney Disease,2
+Somatic Symptom Disorder,1
+Hemophilia,2
+Neurocognitive Disorder,1
+Scoliosis,3
+Typhoid Fever,0
+E. coli Infection,0
+Rubella,0
+Sickle Cell Disease,2
+Sickle Cell Disease,2
+Hemiplegia,3
+Autoimmune Hepatitis,2
+Muscular Dystrophy,3
+Muscular Dystrophy,3
+Whooping Cough,0
+Depression,1
+Claw Hand,3
+Food Poisoning,0
+Chikungunya,0
+Botulism,0
+Borderline Personality Disorder,1
+Seasonal Affective Disorder,1
+Quadriplegia,3
+Graves’ Disease,2
+Rubella,0
+Campylobacteriosis,0
+COPD,2
+Spina Bifida,3
+Mood Disorder,1
+Emotional Dysregulation,1
+Monoplegia,3
+Scarlet Fever,0
+Hepatitis A,0
+Listeriosis,0
+Fibromyalgia,2
+Norovirus,0
+Phobias,1
+Hepatitis A,0
+Clubfoot,3
+Emotional Dysregulation,1
+Spastic Diplegia,3
+Mumps,0
+Peripheral Artery Disease,2
+Scarlet Fever,0
+Catatonia,1
+Mood Disorder,1
+Hip Dysplasia,3
+Yellow Fever,0
+Osteogenesis Imperfecta,3
+Emotional Dysregulation,1
+Scarlet Fever,0
+Psychosis,1
+Tic Disorders,1
+Measles,0
+Neurocognitive Disorder,1
+Aplastic Anemia,2
+Bronchitis,0
+Malaria,0
+Rubella,0
+Gout,2
+Cystic Fibrosis,2
+Cirrhosis,2
+Balance Disorder,3
+Hallucination Disorder,1
+RSV,0
+Endometriosis,2
+Postural Deformity,3
+Heart Disease,2
+Chronic Pancreatitis,2
+Cirrhosis,2
+Chronic Appendicitis,2
+Paratyphoid Fever,0
+Trichotillomania,1
+Neurocognitive Disorder,1
+Kleptomania,1
+Clubfoot,3
+Diabetes,2
+Spastic Diplegia,3
+Parkinson’s Disease,2
+Heart Disease,2
+Hallucination Disorder,1
+Asthma,2
+Norovirus,0
+Measles,0
+Botulism,0
+Kleptomania,1
+Measles,0
+Psychosis,1
+Adjustment Disorder,1
+Chronic Urticaria,2
+Clubfoot,3
+Pneumonia,0
+Impulse Control Disorder,1
+Whooping Cough,0
+Lupus,2
+Eating Disorder,1
+Paralysis,3
+Cerebral Palsy,3
+Anxiety,1
+Panic Disorder,1
+Malaria,0
+Monoplegia,3
+Botulism,0
