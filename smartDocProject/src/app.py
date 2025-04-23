@@ -19,6 +19,8 @@ summarizer = TextSummarizer(
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Users\\yasmalotaibi\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe'  # Update this to your Tesseract path
 
 # Sample data for requests
+#refrence the file that you would like to calssify in here 
+# some of the refrenced files here are delted from the project since they are real data 
 requests = {
     1: {"id": 1, "name": "من تقارير ابشر داون  ", "type": "PDF", "date": "2025-02-16", "attachment": "/static/pdfs/reaDataDown.pdf"},
     2: {"id": 2, "name": "طلب مرض خرف ", "type": "PDF", "date": "2025-02-17", "attachment": "/static/pdfs/Mental.pdf"},
